@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "grunt": "~0.4.2",
+    "grunt-qunit-istanbul": "git://github.com/oddbird/grunt-qunit-istanbul.git",
+  }
+}
