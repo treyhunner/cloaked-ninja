@@ -1,6 +1,9 @@
 {
   "devDependencies": {
+    "gulp-qunit": "~0.2.1",
     "grunt": "~0.4.2",
     "grunt-qunit-istanbul": "git://github.com/oddbird/grunt-qunit-istanbul.git",
+    "gulp": "~3.5.5",
+    "gulp-istanbul": "~0.1.1"
   }
 }
